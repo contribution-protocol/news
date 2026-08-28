@@ -14,6 +14,8 @@ Contribution Protocol Projectの公式ニュースおよび公開更新情報で
 
 Official news from the Contribution Protocol Project, covering research, implementation, operational verification, and protocol development in 2026.
 
+Contribution Protocol Projectの2026年における研究、実装、運用検証、プロトコル開発に関する公式ニュースです。
+
 ### 2026.7.22
 
 #### The paper "Interpretation of the Contribution Protocol (CP) 2025 Mathematical Model" has been published.
@@ -25,7 +27,7 @@ This paper does not revise or extend the mathematical model published in 2025. I
 ■Zenodo (DOI):
 https://doi.org/10.5281/zenodo.21483006
 
-----------------------
+**日本語**
 
 #### Contribution Protocol（CP）「2025年数理モデルの解釈」 を公開しました。
 
@@ -36,6 +38,8 @@ https://doi.org/10.5281/zenodo.21483006
 ■Zenodo論文（DOI）：
 https://doi.org/10.5281/zenodo.21483006
 
+
+---
 
 ### 2026.6.12
 
@@ -48,7 +52,7 @@ Observation and implementation will continue. However, with the publication of t
 ■Supplementary Note:
 https://github.com/contribution-protocol/contribution-protocol-project/blob/main/cp-limit-interpretation.md
 
-----------------------
+**日本語**
 
 #### Contribution Protocol（CP）における極限式の解釈に関する補遺を公開しました。
 
@@ -59,6 +63,8 @@ https://github.com/contribution-protocol/contribution-protocol-project/blob/main
 https://github.com/contribution-protocol/contribution-protocol-project/blob/main/cp-limit-interpretation.md
 
 
+---
+
 ### 2026.5.1
 
 #### A runnable sandbox for the Contribution Protocol (CP) is now available.
@@ -67,7 +73,7 @@ https://github.com/contribution-protocol/cp-sandbox
 
 This sandbox allows direct observation of how the minimal structure behaves in execution. Token issuance, expiration, and append-only records can be inspected at the code level.
 
-----------------------
+**日本語**
 
 #### Contribution Protocol（CP）の実行可能なサンドボックスを公開しました。
 
@@ -75,6 +81,8 @@ https://github.com/contribution-protocol/cp-sandbox
 
 このサンドボックスでは、CPの最小構造が実際にどのように動作するかを直接確認できます。 トークンの発行・失効・記録の挙動を、コードレベルで観察可能です。
 
+
+---
 
 ### 2026.4.25
 
@@ -96,7 +104,7 @@ The Contribution Protocol (CP) is not a form of centralized expansion, but a sys
 
 This structure is published as the minimal unit that ensures its replicability, and serves as a foundation that operates dynamically within each environment.
 
-----------------------
+**日本語**
 
 #### Contribution Protocol（CP）の最小構造を公開しました。
 
@@ -116,6 +124,8 @@ CPは中央集権的な拡張ではなく、それぞれの環境で複製され
 
 本構造は、その複製可能性を担保する最小単位として公開されており、各環境において動的に成立する基盤となります。
 
+
+---
 
 ### 2026.2.12
 
@@ -153,7 +163,7 @@ Going forward, we will continue verification while clearly distinguishing betwee
 
 This concludes the technical clarification regarding the report dated January 1.
 
-----------------------
+**日本語**
 
 #### 2026年1月1日付「πと約67%」報告に関する補足説明
 
@@ -187,6 +197,8 @@ R ≈ f(π)
 
 以上をもって、1月1日付報告に対する技術的補足とする。
 
+
+---
 
 ### 2026.1.1
 
@@ -242,7 +254,7 @@ Note:
 The 67% / 33% figures in this paper indicate the state of connection to the system.
 They do not include people for whom contribution itself has become difficult and who have therefore stepped outside the system.
 
-----------------------
+**日本語**
 
 #### 循環構造の検証結果：πに対応する社会循環率は約67%
 
@@ -294,6 +306,8 @@ They do not include people for whom contribution itself has become difficult and
 
 Official news from the Contribution Protocol Project, covering research, implementation, operational verification, and protocol development in 2025.
 
+Contribution Protocol Projectの2025年における研究、実装、運用検証、プロトコル開発に関する公式ニュースです。
+
 ### 2025.12.31
 
 #### Goodwill Does Not Circulate Without Conditions
@@ -329,6 +343,8 @@ Specifically, we will prioritize structures in which responsibilities and condit
 
 We will continue to organize and share only those conditions that are reproducible at the institutional level, based on insights gained through field practice.
 
+
+---
 
 ### 2025.12.6
 
