@@ -16,6 +16,31 @@ Official news from the Contribution Protocol Project, covering research, impleme
 
 Contribution Protocol Projectの2026年における研究、実装、運用検証、プロトコル開発に関する公式ニュースです。
 
+### 2026.9.6
+
+#### Contribution Protocol (CP) Implementation and Operational Progress Report — September 2026 Published
+
+A progress report summarizing the findings obtained through the implementation and operation of the Contribution Protocol (CP), which began operating in March 2024, through September 4, 2026 has been published.
+
+This report presents observations from approximately two and a half years of actual operation, including token circulation, reserve management, accounting structure, changes in record-keeping practices, and non-monetary value generated through implementation.
+
+■Zenodo (DOI):
+https://doi.org/10.5281/zenodo.22442602
+
+**日本語**
+
+#### Contribution Protocol（CP）「実装・運用進捗報告 — 2026年9月」を公開しました。
+
+2024年3月に運用を開始したContribution Protocol（CP）について、2026年9月4日時点までの実装・運用を通じて得られた知見を整理した進捗報告を公開しました。
+
+本報告では、約2年半の実運用を通じて観察された、トークンの循環、引当管理、会計構造、記録運用の変化、ならびに実装を通じて生じた非金銭的価値について整理しています。
+
+■Zenodo論文（DOI）：
+https://doi.org/10.5281/zenodo.22442602
+
+
+---
+
 ### 2026.7.22
 
 #### The paper "Interpretation of the Contribution Protocol (CP) 2025 Mathematical Model" has been published.
