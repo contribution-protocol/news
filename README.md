@@ -16,6 +16,36 @@ Official news from the Contribution Protocol Project, covering research, impleme
 
 Contribution Protocol Projectの2026年における研究、実装、運用検証、プロトコル開発に関する公式ニュースです。
 
+### 2026.10.12
+
+#### Contribution Protocol (CP) Succession Design — Operational and System Implementation Requirements Published.
+
+The "Contribution Protocol (CP) Succession Design — Operational and System Implementation Requirements" has been published, systematically organizing the institutional principles and conditions for succession of the Contribution Protocol (CP), which began operating in March 2024.
+
+This design clarifies the principles and boundaries that must be maintained as CP and defines the requirements for its current operation and system implementation, future succession, and termination.
+
+With the previously completed structural design and the establishment of the principles for succession and requirements for current operation and system implementation in this document, the institutional design of CP is now complete.
+
+■Zenodo (DOI):
+https://doi.org/10.5281/zenodo.23306793
+
+
+**日本語**
+
+#### 「Contribution Protocol（CP）継承設計 ― 運用・システム実装要件」 を公開しました。
+
+2024年3月に運用を開始したContribution Protocol（CP）について、制度の原則と継承条件を体系的に整理した「CP継承設計 ― 運用・システム実装要件」を公開しました。
+
+本設計では、CPとして維持すべき原則と境界を明確にし、現在の運用・システム実装から将来の継承、終了に至るまでの要件を定めています。
+
+先に完了した構造設計に加え、今回、継承に関する原則と現在の運用・システム実装要件を定めたことで、CPの制度設計は完了となります。
+
+■Zenodo論文（DOI）：
+https://doi.org/10.5281/zenodo.23306793
+
+
+---
+
 ### 2026.9.6
 
 #### Contribution Protocol (CP) Implementation and Operational Progress Report — September 2026 Published
